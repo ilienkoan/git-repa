@@ -1,2 +1,0 @@
-print(Goodby2)
-print(Goodby2/3)
