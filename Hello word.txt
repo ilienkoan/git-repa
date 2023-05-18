@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 print(Hello word)
 print(Hello my friend)
+=======
+print(Hi)
+print(Hi2)
+print(Hi3)
+>>>>>>> main
